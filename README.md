@@ -1,4 +1,4 @@
-# Servo Sonar Scanner
+# Servo Sonar Radar
 
 An Arduino-based sonar system that mounts an HC-SR04 ultrasonic sensor on a servo motor to sweep and detect objects. Detected objects are visualized on a real-time radar display built in Processing.
 
